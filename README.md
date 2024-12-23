@@ -5,6 +5,10 @@
 - Nacionalidad: Mexicana
 - Sexo: Masculino
 
+### Lenguajes
+- python
+- java
+
 ### Datos de contacto
 - Correo personal: ivancdeno@gmail.com
 - [Facebook](https://www.facebook.com/ivan.cl.775)
